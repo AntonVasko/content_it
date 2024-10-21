@@ -19,3 +19,5 @@
 12. Шаблонизатор **Jinja** https://jinja.palletsprojects.com/en/3.1.x/ pip install Jinja2 (входит в состав Flask) 
 13. Buildozer https://buildozer.readthedocs.io/en/latest/installation.html (опционально, если показывать как собирать приложение в linux дистрибутивах) 
 14. Библиотека **Openpyxl** (работа с электронными таблицами, экспорт в xlsx) https://openpyxl.readthedocs.io/en/stable/ pip install openpyxl
+15. Основы **HTML** https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics
+16. Основы **CSS** https://developer.mozilla.org/ru/docs/Web/CSS
